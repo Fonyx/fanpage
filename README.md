@@ -1,3 +1,3 @@
 # Fanpage
-![Screenshot](https://github.com/Fonyx/planetaryMotion/blob/main/Assets/screenshots/planetary.PNG?raw=true "Planetary Motion")
+![Screenshot](https://github.com/Fonyx/fanpage/blob/main/Assets/screenshot.PNG?raw=true "Pendulum")
 A fanpage exercise dedicated to perth band 'PENDULUM'
